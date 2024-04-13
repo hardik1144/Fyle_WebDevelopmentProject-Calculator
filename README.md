@@ -3,6 +3,11 @@
 To run this web app locally just download the files in this repository and save them in a single folder. After doing so, just run the HTML file. It is not necessary to download the README.md file.
 
 
+## Assumptions:-
+
+Instead of providing an exclamation as an error icon, I have made the field to highlight in red when an incoorect value is added in the field or a field is left empty.
+
+
 ## Screenshots of the websites:-
 
 Screenshots of all the cases ( successful or failed cases ) have added in this file.
