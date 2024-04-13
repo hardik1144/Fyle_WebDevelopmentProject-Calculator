@@ -1,6 +1,8 @@
 To run this web app locally just download the files in this repository and save them in a single folder. After doing so, just run the HTML file. It is not necessary to download the README.md file.
 
 
+## Screenshots of the website :-
+
 <img width="1470" alt="Screenshot 2024-04-13 at 4 15 38 PM" src="https://github.com/hardik1144/Fyle_WebDevelopmentProject-Calculator/assets/146644901/53ddc5e9-3fbc-4b3c-a67f-41b54668a7d2">
 
 
