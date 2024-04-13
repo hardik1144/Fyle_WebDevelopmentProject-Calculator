@@ -5,7 +5,7 @@ To run this web app locally just download the files in this repository and save 
 
 ## Assumptions:-
 
-Instead of providing an exclamation as an error icon, I have made the field to highlight in red when an incoorect value is added in the field or a field is left empty.
+Instead of providing an exclamation as an error icon, I have made the field to highlight in red when an incorrect value is added in the field or a field is left empty.
 
 
 ## Screenshots of the websites:-
